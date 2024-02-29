@@ -21,4 +21,5 @@ PRODIGY_CS_02 is a Python project providing a versatile image encryption and dec
 
 2.  Install dependencies:
 
+    ```bash
     pip install pycryptodome
