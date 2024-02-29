@@ -17,7 +17,7 @@ PRODIGY_CS_02 is a Python project providing a versatile image encryption and dec
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/PRODIGY_CS_02.git
+   git clone https://github.com/amannoyed/PRODIGY_CS_02.git
 
 2.  Install dependencies:
 
